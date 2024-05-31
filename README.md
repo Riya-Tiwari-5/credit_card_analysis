@@ -6,8 +6,9 @@ The objective of this project is to deliver a comprehensive analysis of credit c
 
 Tools:-
 
-PowerBI - To create Dashboard, Data visualization
-SQL -      To create and import tables
+PowerBI - To create Dashboard, Data visualization.
+
+SQL -      To create and import csv files.
 
 Insights:-
 
