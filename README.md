@@ -8,7 +8,7 @@ Tools:-
 
 PowerBI - To create Dashboard, Data visualization.
 
-SQL -      To create and import csv files.
+MySQL -      To create and import csv files.
 
 Insights:-
 
